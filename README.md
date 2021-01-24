@@ -30,9 +30,9 @@ Before using the data from glassdor, I needed to clean it up so that it was usab
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-falta un ! pegado[alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-[alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-[alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![alt text](https://github.com/chrisferreyra13/PredictSalary/blob/master/av_salary_vs_job.PNG "Salary by Position")
+![alt text](https://github.com/chrisferreyra13/PredictSalary/blob/master/job_state.png "Job Opportunities by State")
+![alt text](https://github.com/chrisferreyra13/PredictSalary/blob/master/heatmap.png "Correlations")
 
 ## Model Building 
 
